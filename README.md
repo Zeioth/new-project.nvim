@@ -1,5 +1,5 @@
 # create-project.nvim
-A neovim plugin to create a new project
+A plugin that provide the command `:NewProject` to create a new project.
 
 ## Hello!
 This plugin is in conceptual phase. Check it out in a few months.
@@ -14,3 +14,6 @@ for zip we would wanna have
 * create lib project → this has to run `zig init-lib`.
 
 These are meant to run with compiler.nvim, which does `zig build` or `zig build run`.
+
+## Provided options
+WIP
