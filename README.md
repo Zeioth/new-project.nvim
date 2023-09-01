@@ -17,3 +17,6 @@ These are meant to run with compiler.nvim, which does `zig build` or `zig build 
 
 ## Provided options
 WIP
+
+## Planned for 2027
+In the meantime you can use the command :TermExec cmd="my command to create project" or wathever you may need.
